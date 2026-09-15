@@ -19,11 +19,11 @@ Founder & Principal Investigator | [Email](mailto:tunde.cserpes@mgmt.au.dk) | [L
 ### Rocio Medina Polar
 Predoctoral Research Assistant | [Email](mailto:au829461@uni.au.dk) | [LinkedIn](https://www.linkedin.com/in/rocio-medina-polar/)
 
-### Miguel Atencio
+### Miguel Angel Atencio Alzate
 Research Assistant | [Email](mailto:miguelatencio@mgmt.au.dk) | [LinkedIn](https://www.linkedin.com/in/miguelatencioa/)
 
-### Sara Frisk
-Research Assistant | [Email](mailto:sfrisk@mgmt.au.dk)
+### Sara Frisk Helstrup
+Research Assistant | [Email](mailto:sfrisk@mgmt.au.dk) | [LinkedIn](https://www.linkedin.com/in/sara-frisk-helstrup-7a2496404/)
 
 ## Alumni
 
