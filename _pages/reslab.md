@@ -17,7 +17,7 @@ That requires two kinds of work. Access work secures records other researchers c
 Founder & Principal Investigator | [Email](mailto:tunde.cserpes@mgmt.au.dk) | [LinkedIn](https://www.linkedin.com/in/tunde-cserpes)
 
 ### Rocio Medina Polar
-Predoctoral Research Assistant | [LinkedIn](https://www.linkedin.com/in/rocio-medina-polar/)
+Predoctoral Research Assistant | [Email](mailto:au829461@uni.au.dk) | [LinkedIn](https://www.linkedin.com/in/rocio-medina-polar/)
 
 ### Miguel Atencio
 Research Assistant | [Email](mailto:miguelatencio@mgmt.au.dk) | [LinkedIn](https://www.linkedin.com/in/miguelatencioa/)
