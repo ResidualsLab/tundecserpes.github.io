@@ -4,6 +4,7 @@ redirect_from: /reslab/
 title: "About the Lab"
 excerpt: "Residuals Lab"
 author_profile: true
+classes: wide
 author: "Residuals Lab"
 ---
 Residuals Lab builds the research infrastructure behind Tünde’s research designs, adding a fourth pillar to her academic work alongside research, teaching, and service.

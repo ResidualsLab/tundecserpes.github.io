@@ -23,6 +23,13 @@
     @include suffix(2 of 12);
   }
 
+  /* opt-in wider text column: set `classes: wide` in page front matter */
+  &.wide {
+    @include breakpoint($large) {
+      @include suffix(0 of 12);
+    }
+  }
+
   .page__inner-wrap {
     @include full();
 
