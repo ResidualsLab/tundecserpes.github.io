@@ -48,3 +48,11 @@ MSc in Innovation Management | [LinkedIn](https://www.linkedin.com/in/pedronj/)
 
 ### Avdo Mujcinovic
 MSc in Mathematics-Economics | [LinkedIn](https://www.linkedin.com/in/avdo-mujcinovic-84a5051a2/)
+
+## Want to join?
+
+We periodically recruit bachelor’s students to our development track and master’s students to our research track (see past postings: [development track](/files/2026_BSc-student-assistant.pdf), [research track](/files/2026_MSc-student-assistant.pdf)). Student positions are open to students enrolled at Aarhus University. When we are hiring, positions will be advertised. If no advertisement is currently open, you are welcome to send us a short letter of interest and your CV to [tunde.cserpes@mgmt.au.dk](mailto:tunde.cserpes@mgmt.au.dk).
+
+PhD students join ResLab through the Aarhus BSS PhD programme. If you would like to pursue a PhD with us, you must apply through the relevant PhD admission process.
+
+Postdoctoral researchers join when project funding allows us to create a position. Postdoc openings will always be formally advertised.
