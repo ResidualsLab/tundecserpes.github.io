@@ -107,6 +107,25 @@
     font-size: $type-size-6;
   }
 
+  /* in-page jump links (e.g. top of Lab page) */
+  .section-nav {
+    padding-bottom: 0.75em;
+    margin-bottom: 1.5em;
+    border-bottom: 1px solid var(--global-border-color);
+    font-size: $type-size-6;
+    color: var(--global-text-color-light);
+
+    a {
+      color: var(--global-text-color-light);
+      text-decoration: none;
+
+      &:hover {
+        color: var(--global-link-color-hover);
+        text-decoration: underline;
+      }
+    }
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;

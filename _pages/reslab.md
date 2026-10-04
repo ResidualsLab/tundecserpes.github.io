@@ -7,6 +7,9 @@ author_profile: true
 classes: wide
 author: "Residuals Lab"
 ---
+[Why a lab?](#why-a-lab) · [Team](#team) · [Alumni](#alumni) · [Want to join?](#want-to-join)
+{: .section-nav}
+
 Residuals Lab builds the research infrastructure behind Tünde’s research designs, adding a fourth pillar to her academic work alongside research, teaching, and service.
 
 ResLab does access work: finding institutional records, negotiating access to them, and understanding the legal and institutional conditions under which they can be used. These records often sit across different agencies and come with their own permissions, restrictions, and documentation. Each of the external datasets behind Tünde’s current projects took years to secure.
