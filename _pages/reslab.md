@@ -36,14 +36,27 @@ The lab also lets one organization generate several payoffs from the same work. 
 Members of ResLab develop unusual training in analytical judgment. Access and data work confront them with decisions that have no ready-made answer: what a record means, which lead deserves more time, how a choice should be documented, and when the evidence supports a conclusion. Members take on more responsibility as they learn to make those decisions well. As AI takes over more routine execution, ResLab can move members earlier toward problems that require judgment. The result is a research organization built around two things that take time to develop: hard-won data and the judgment to use them well.
 
 ## Team
+<div style="display:flex; flex-wrap:wrap; gap:16px; align-items:flex-start;">
 
-<img src="{{ '/images/AMT_photo.jpeg' | relative_url }}"
-     alt="Residuals Lab team photo"
-     style="width:100%; max-width:600px; height:auto;">
+  <div style="width:280px; max-width:100%;">
+    <img src="{{ '/images/AMT_photo.jpeg' | relative_url }}"
+         alt="Team photo from All-Hands meeting"
+         style="display:block; width:100%; height:auto;">
+    <p style="margin-top:8px; font-size:14px;">
+      Team photo from All-Hands meeting
+    </p>
+  </div>
 
-<img src="{{ '/images/Escape_room.png' | relative_url }}"
-     alt="Residuals Lab team at the escape room"
-     style="width:100%; max-width:600px; height:auto;">
+  <div style="width:280px; max-width:100%;">
+    <img src="{{ '/images/Escape_room.png' | relative_url }}"
+         alt="Team photo from Escape Room"
+         style="display:block; width:100%; height:auto;">
+    <p style="margin-top:8px; font-size:14px;">
+      Team photo from Escape Room
+    </p>
+  </div>
+
+</div>
 
 ### Tunde Cserpes
 Founder & Principal Investigator | [Email](mailto:tunde.cserpes@mgmt.au.dk) | [LinkedIn](https://www.linkedin.com/in/tunde-cserpes)
