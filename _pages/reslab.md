@@ -37,6 +37,14 @@ Members of ResLab develop unusual training in analytical judgment. Access and da
 
 ## Team
 
+<img src="{{ '/images/AMT_photo.jpeg' | relative_url }}"
+     alt="Residuals Lab team photo"
+     style="width:100%; max-width:600px; height:auto;">
+
+<img src="{{ '/images/Escape_room.png' | relative_url }}"
+     alt="Residuals Lab team at the escape room"
+     style="width:100%; max-width:600px; height:auto;">
+
 ### Tunde Cserpes
 Founder & Principal Investigator | [Email](mailto:tunde.cserpes@mgmt.au.dk) | [LinkedIn](https://www.linkedin.com/in/tunde-cserpes)
 
