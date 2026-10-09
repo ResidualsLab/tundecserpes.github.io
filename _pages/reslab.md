@@ -75,10 +75,10 @@ Research Assistant | [Email](mailto:sfrisk@mgmt.au.dk) | [LinkedIn](https://www.
 
   <div style="width:280px; max-width:100%;">
     <img src="{{ '/images/prev_ras.jpg' | relative_url }}"
-         alt="Photo from dinner with previous almuni"
+         alt="Photo from dinner with previous alumni"
          style="display:block; width:100%; height:auto;">
     <p style="margin-top:8px; font-size:14px;">
-      Photo from dinner with previous almuni
+      Photo from dinner with previous alumni
     </p>
   </div>
 
