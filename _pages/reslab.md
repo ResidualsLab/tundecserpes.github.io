@@ -71,7 +71,7 @@ Research Assistant | [Email](mailto:miguelatencio@mgmt.au.dk) | [LinkedIn](https
 Research Assistant | [Email](mailto:sfrisk@mgmt.au.dk) | [LinkedIn](https://www.linkedin.com/in/sara-frisk-helstrup-7a2496404/)
 
 ## Alumni
-<div style="display:flex; flex-wrap:wrap; gap:16px; align-items:flex-start;">
+<div markdown="1" style="display:flex; flex-wrap:wrap; gap:16px; align-items:flex-start;">
 
   <div style="width:280px; max-width:100%;">
     <img src="{{ '/images/prev_ras.jpg' | relative_url }}"
@@ -81,6 +81,8 @@ Research Assistant | [Email](mailto:sfrisk@mgmt.au.dk) | [LinkedIn](https://www.
       Photo from dinner with previous alumni
     </p>
   </div>
+
+</div>
 
 ### Simon Klitaa Thomsen
 MSc in Finance | [LinkedIn](https://www.linkedin.com/in/simon-t-710aba194/)
