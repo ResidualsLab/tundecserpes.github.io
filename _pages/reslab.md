@@ -33,8 +33,6 @@ That practical problem also became an organization-design question. Tünde resea
 
 The lab also lets one organization generate several payoffs from the same work. For Tünde, it builds durable research infrastructure. Academic researchers get a setting in which to work on consequential research problems and develop judgment. Bachelor- and master-level students get challenging work, ownership, and analytical skills they can take into careers outside academia. External partners get useful insight and a reliable way to work with researchers. We think of this as one tree, several harvests.
 
-Members of ResLab develop unusual training in analytical judgment. Access and data work confront them with decisions that have no ready-made answer: what a record means, which lead deserves more time, how a choice should be documented, and when the evidence supports a conclusion. Members take on more responsibility as they learn to make those decisions well. As AI takes over more routine execution, ResLab can move members earlier toward problems that require judgment. The result is a research organization built around two things that take time to develop: hard-won data and the judgment to use them well.
-
 ## Team
 <div style="display:flex; flex-wrap:wrap; gap:16px; align-items:flex-start;">
 
