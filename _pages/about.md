@@ -2,6 +2,7 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
+description: "Tunde Cserpes is Associate Professor of Strategy and Entrepreneurship at Aarhus University and founder of Residuals Lab."
 author_profile: true
 classes: wide
 redirect_from: 

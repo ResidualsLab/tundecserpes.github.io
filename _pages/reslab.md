@@ -3,6 +3,7 @@ permalink: /residualslab/
 redirect_from: /reslab/
 title: "About the Lab"
 excerpt: "Residuals Lab"
+description: "Residuals Lab at Aarhus University builds the data access and data construction behind register-based management research."
 author_profile: true
 classes: wide
 author: "Residuals Lab"
